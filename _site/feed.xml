@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T09:07:27-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Terra</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T16:37:27-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Terra</title><subtitle>Just nonsense.</subtitle><author><name>TheVerse</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/SamplePost/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-04-08T00:00:00-04:00</published><updated>2021-04-08T00:00:00-04:00</updated><id>http://localhost:4000/SamplePost</id><content type="html" xml:base="http://localhost:4000/SamplePost/"># Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!</content><author><name>TheVerse</name></author><summary type="html"># Welcome</summary></entry><entry><title type="html">Earlier Post!</title><link href="http://localhost:4000/EarlierPostt/" rel="alternate" type="text/html" title="Earlier Post!" /><published>2021-04-07T00:00:00-04:00</published><updated>2021-04-07T00:00:00-04:00</updated><id>http://localhost:4000/EarlierPostt</id><content type="html" xml:base="http://localhost:4000/EarlierPostt/"># Welcome
+
+HUZZAH!!
+
+I hope you like it!</content><author><name>TheVerse</name></author><summary type="html"># Welcome</summary></entry></feed>
